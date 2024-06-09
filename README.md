@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santosh-Kumar-yadav
 - 👀 I’m interested in Programming languages.
-- 🌱 I’m currently learningcjavascrpt.
+- 🌱 I’m currently learning javascrpt.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
